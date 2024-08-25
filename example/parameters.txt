@@ -1,0 +1,3 @@
+n	100
+fastq1	input1.fastq
+fastq2	input2.fastq

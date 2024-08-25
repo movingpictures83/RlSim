@@ -1,0 +1,2 @@
+Prefix plugins/RlSim/example/
+Plugin RlSim inputfile parameters.txt outputfile output.fastq
